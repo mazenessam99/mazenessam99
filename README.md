@@ -35,7 +35,7 @@
 
 ## 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp,ai&perline=10&colors=gradient" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,lightroom,gimp&perline=10&colors=gradient" />
 </p>
 
 ---
