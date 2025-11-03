@@ -19,51 +19,23 @@
 🌱 Always learning, always creating.  
 
 ---
-
 ## 🧠 Tech Stack
-
-<p align="center">
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-  ![shadcn](https://img.shields.io/badge/shadcn-FF4785?style=flat&logo=shadcn&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn,json&perline=10&colors=gradient" />
 </p>
 
 ---
 
 ## ⚙ Tools
-
-<p align="center">
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion,ai&perline=10&colors=gradient" />
 </p>
 
 ---
 
 ## 🎨 Design
-
-<p align="center">
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-  ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
-  ![GIMP](https://img.shields.io/badge/GIMP-5C554A?style=flat&logo=gimp&logoColor=white)
-  ![Adobe AI](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
 </p>
 
 ---
