@@ -76,10 +76,9 @@
 ---
 ### 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-contributions?username=mazenessam99&theme=radical&snake=1" alt="snake animation" />
+  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
 
 ### 📫 Contact Me
 <p align="center">
