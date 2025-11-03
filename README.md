@@ -1,15 +1,43 @@
 <!-- 💫 README for Mazen Essam (mazenessam99) -->
 
-<div align="center" style="background: linear-gradient(270deg, #f093fb, #f5576c, #4facfe, #43e97b); background-size: 800% 800%; animation: gradientBG 15s ease infinite; padding: 30px; border-radius: 20px;">
+<div align="center" style="background: linear-gradient(45deg, #ff7eb9, #ff758c, #ff7e5f, #feb47b); background-size: 400% 400%; animation: gradientBG 12s ease infinite; padding: 35px; border-radius: 20px;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
 </h1>
 
 <h3 align="center" style="color:white;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
 
 </div>
 
+<style>
+@keyframes gradientBG {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.marquee img {
+  display: inline-block;
+  margin-right: 20px;
+  animation: marqueeAnim 20s linear infinite;
+}
+@keyframes marqueeAnim {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+.penguin {
+  position: relative;
+  animation: penguinUpDown 3s ease-in-out infinite;
+}
+@keyframes penguinUpDown {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+</style>
 
 ---
 
@@ -23,21 +51,21 @@
 
 ## 🧠 Tech Stack
 <div class="marquee">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn,framer,gsap" width="60"/>
 </div>
 
 ---
 
 ## ⚙ Tools
 <div class="marquee">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion" width="60"/>
 </div>
 
 ---
 
 ## 🎨 Design
 <div class="marquee">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp" width="60"/>
 </div>
 
 ---
@@ -74,12 +102,13 @@
 </p>
 
 ---
+
 ### 🐍 GitHub Snake Animation
 <p align="center">
   <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-user-contribution.svg" alt="snake animation" />
 </p>
 
-
+---
 
 ### 📫 Contact Me
 <p align="center">
@@ -91,6 +120,13 @@
 
 <p align="center">
   <i>Open to freelance projects, collaborations, or just a good chat about tech 🚀</i>
+</p>
+
+---
+
+<!-- Penguin Animation -->
+<p align="center">
+  <img class="penguin" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="penguin animation" width="100"/>
 </p>
 
 ---
