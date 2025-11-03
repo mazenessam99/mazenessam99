@@ -3,7 +3,7 @@
 <div align="center" style="background: linear-gradient(270deg, #f093fb, #f5576c, #4facfe, #43e97b); background-size: 800% 800%; animation: gradientBG 15s ease infinite; padding: 30px; border-radius: 20px;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color='purble'&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
 </h1>
 
 <h3 align="center" style="color:white;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
@@ -99,10 +99,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=🚀+Coding+with+passion+and+purpose!;💡+Building+beautiful+digital+experiences;⚡+Let's+create+something+awesome+together!" />
 </p>
 
-<style>
-@keyframes gradientBG {
-  0% {background-position:0% 50%;}
-  50% {background-position:100% 50%;}
-  100% {background-position:0% 50%;}
-}
-</style>
