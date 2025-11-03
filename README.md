@@ -10,32 +10,6 @@
 
 </div>
 
-<style>
-@keyframes gradientBG {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-
-.marquee {
-  display: flex;
-  overflow: hidden;
-  white-space: nowrap;
-  width: 100%;
-}
-
-.marquee img {
-  margin-right: 20px;
-  height: 50px;
-  vertical-align: middle;
-  animation: scroll 20s linear infinite;
-}
-
-@keyframes scroll {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
 
 ---
 
@@ -102,9 +76,11 @@
 ---
 
 ### 🐍 GitHub Snake Animation
+
 <p align="center">
-  <img src="https://github.com/mazenessam99.png?snake=1" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/github-contributions?username=mazenessam99&theme=radical&snake=1" alt="snake animation" />
 </p>
+
 
 ---
 
