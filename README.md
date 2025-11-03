@@ -34,30 +34,24 @@
 
 ## 🧠 Tech Stack
 
-<marquee direction="left" scrollamount="6">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
 </marquee>
 
 ---
 
 ## ⚙ Tools
 
-<marquee direction="left" scrollamount="6">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
 </marquee>
 
 ---
 
 ## 🎨 Design
 
-<marquee direction="left" scrollamount="6">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
 </marquee>
 
 ---
@@ -95,12 +89,11 @@
 
 ---
 
-### 🐍 GitHub Snake Animation (Dynamic)
+### 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+  <img src="https://github.com/mazenessam99.png?snake=1" alt="github contribution snake animation" />
 </p>
-.
 
 ---
 
