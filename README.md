@@ -46,7 +46,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion,figma&perline=10&colors=gradient" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
 </p>
 </marquee>
 
@@ -100,10 +100,7 @@
 <p align="center">
   <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
-
-> ⚡ **مهم:** عشان Snake Animation تشتغل تلقائي، لازم تعمل:
-> 1️⃣ Branch باسم `output`  
-> 2️⃣ ملف `github-contribution-grid-snake.svg` أو استخدم GitHub Action لتوليدها كل مرة Commit جديد
+.
 
 ---
 
