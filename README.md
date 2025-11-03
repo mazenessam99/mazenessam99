@@ -16,21 +16,35 @@
 ---
 
 ### 🚀 About Me
-💡 I’m a passionate *Full-Stack Developer* who loves building sleek, modern, and scalable web & mobile apps.  
-⚛ I specialize in *React, Next.js, and TypeScript*, crafting dynamic UIs with **Tailwind, Bootstrap, MUI, and Shadcn/UI**.  
-🔥 I also work with *Node.js, Firebase, and Supabase*, and I enjoy exploring **React Native** for mobile apps.  
-🌱 Always learning, always creating.  
+💡 Passionate *Full-Stack Developer* who loves building sleek, modern, and scalable digital experiences.  
+⚛ Skilled in *React, Next.js, and TypeScript* — crafting dynamic UIs with **Tailwind, Bootstrap, MUI, and Shadcn/UI**.  
+🔥 I also work with *Node.js, Firebase, Supabase*, and explore **React Native** for mobile development.  
+🌱 Constantly learning. Always creating.  
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,bootstrap,tailwind,materialui,react,nextjs,nodejs,firebase,supabase,framermotion,gsap,figma,vscode,postman,vercel,vite,notion&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,tailwind,materialui,shadcn,firebase,supabase,reactnative,framermotion,gsap&perline=8" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## ⚙️ Tools & Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,notion&perline=8" />
+</p>
+
+---
+
+## 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=8" />
+</p>
+
+---
+
+## 🌟 Featured Projects
 
 #### 🎬 [Mazflix](https://github.com/mazenessam99/Mazflix)
 > *Movie & TV streaming platform* built with React + Vite.  
@@ -52,32 +66,40 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazenessam99&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenessam99&theme=radical" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenessam99&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 📫 Contact Me
-I'm always open to *freelance projects, collaborations, or just a good chat about tech* 🚀  
-Feel free to reach out 👇  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mazen-essam-8b5448224)  
-- 📧 [Email](mailto:emazen628@gmail.com)  
-- 💬 [Telegram](https://t.me/mazen99_2001)  
-- 🧠 [GitHub](https://github.com/mazenessam99)
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mazen-essam-8b5448224" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:emazen628@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://t.me/mazen99_2001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="https://github.com/mazenessam99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
