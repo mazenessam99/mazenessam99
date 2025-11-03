@@ -60,7 +60,7 @@
 #### 🎬 [Mazflix](https://github.com/mazenessam99/Mazflix)
 > Movie & TV streaming platform built with React + Vite.  
 > Browse trending shows, view detailed info, and manage wishlists with smooth animations & user authentication.  
-🔗 [Live Demo](https://github.com/mazenessam99/Mazflix)
+🔗 [Live Demo](https://mazenessam99.github.io/Mazflix/)
 
 ---
 
