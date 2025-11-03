@@ -8,10 +8,6 @@
 
 <h3 align="center" style="color:white;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110891626?v=4" width="150" height="150" style="border-radius:50%; border:4px solid white;" alt="Mazen Essam"/>
-</p>
-
 </div>
 
 <style>
@@ -19,6 +15,25 @@
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
+}
+
+.marquee {
+  display: flex;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.marquee img {
+  margin-right: 20px;
+  height: 50px;
+  vertical-align: middle;
+  animation: scroll 20s linear infinite;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
 }
 </style>
 
@@ -33,26 +48,23 @@
 ---
 
 ## 🧠 Tech Stack
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
-</marquee>
+<div class="marquee">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
+</div>
 
 ---
 
 ## ⚙ Tools
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
-</marquee>
+<div class="marquee">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10&colors=gradient" />
+</div>
 
 ---
 
 ## 🎨 Design
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
-</marquee>
+<div class="marquee">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
+</div>
 
 ---
 
@@ -90,9 +102,8 @@
 ---
 
 ### 🐍 GitHub Snake Animation
-
 <p align="center">
-  <img src="https://github.com/mazenessam99.png?snake=1" alt="github contribution snake animation" />
+  <img src="https://github.com/mazenessam99.png?snake=1" alt="snake animation" />
 </p>
 
 ---
