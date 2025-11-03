@@ -19,31 +19,44 @@
 
 ## 🚀 About Me  
 
-Hi there! 👋 I’m **Mazen Mohamed**, a passionate **Frontend Web Developer** who loves building modern, responsive, and interactive web apps.  
-Currently focusing on **React, Next.js, TypeScript, and Node.js**, with a strong eye for clean design and performance.  
-
-💡 I enjoy working with  
-**Tailwind, Bootstrap, MUI, shadcn, Firebase, Supabase, and React Native**  
-to turn ideas into sleek, real-world applications.  
+Hi there! 👋 I’m **Mazen Mohamed**, a passionate **Frontend Web Developer** who loves crafting modern, fast, and dynamic web apps.  
+💻 Specialized in **React**, **Next.js**, and **TypeScript** — focused on building beautiful, responsive UI with powerful backend logic.  
+Currently exploring **animation & creative UI with Framer Motion and GSAP** ✨  
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠 Languages & Frameworks  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcn&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🛠️ Tools  
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -95,10 +108,21 @@ Feel free to reach out through any of my links below 👇
 
 ---
 
+### 🐍 Snake Animation  
+
+<div align="center">
+  
+![snake gif](https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 <div align="center">
   
 ✨ *“Code. Create. Collaborate.”* ✨  
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="15%" alt="Penguin"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="15%" alt="Duck"/>
 
 </div>
