@@ -20,7 +20,7 @@
 
 ---
 ## 🧠 Tech Stack
-<p align="left">
+
   ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
   ![semicolon](https://img.shields.io/badge/-%3A-orange)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-</p>
+
 
 
 ---
