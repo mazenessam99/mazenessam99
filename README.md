@@ -10,7 +10,6 @@
 
 </div>
 
-
 ---
 
 ### 🚀 About Me
@@ -74,6 +73,7 @@
 </p>
 
 ---
+
 ### 🐍 GitHub Snake Animation
 <p align="center">
   <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-user-contribution.svg" alt="snake animation" />
@@ -98,3 +98,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=🚀+Coding+with+passion+and+purpose!;💡+Building+beautiful+digital+experiences;⚡+Let's+create+something+awesome+together!" />
 </p>
+
+<style>
+@keyframes gradientBG {
+  0% {background-position:0% 50%;}
+  50% {background-position:100% 50%;}
+  100% {background-position:0% 50%;}
+}
+</style>
