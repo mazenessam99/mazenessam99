@@ -1,4 +1,11 @@
 <!-- 💫 README for Mazen Essam (mazenessam99) -->
+
+<!-- 🦆 ----------------------------------------------------------- 🦆 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Web+%26+Mobile+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Welcome+to+my+dark+tech+space!">
+</p>
+<!-- 🦆 ----------------------------------------------------------- 🦆 -->
+
 <h1 align="center">Hey there, I'm <a href="https://github.com/mazenessam99">Mazen Essam</a> 👋</h1>
 <h3 align="center">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
 
@@ -9,16 +16,16 @@
 ---
 
 ### 🚀 About Me
-💡 I’m a passionate *Full-Stack Developer* who loves building sleek, modern, and scalable web apps.  
-⚛ I specialize in *React, Next.js, and TypeScript, crafting dynamic UIs with **Tailwind, Bootstrap, MUI, and shadcn/ui*.  
-🔥 I also work with *Node.js, Firebase, and Supabase, and I enjoy exploring **React Native* for mobile apps.  
+💡 I’m a passionate *Full-Stack Developer* who loves building sleek, modern, and scalable web & mobile apps.  
+⚛ I specialize in *React, Next.js, and TypeScript*, crafting dynamic UIs with **Tailwind, Bootstrap, MUI, and Shadcn/UI**.  
+🔥 I also work with *Node.js, Firebase, and Supabase*, and I enjoy exploring **React Native** for mobile apps.  
 🌱 Always learning, always creating.  
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind,bootstrap,materialui,html,css,javascript,firebase,supabase,reactnative,git,github,vscode,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,bootstrap,tailwind,materialui,react,nextjs,nodejs,firebase,supabase,framermotion,gsap,figma,vscode,postman,vercel,vite,notion&perline=9" />
 </p>
 
 ---
@@ -38,7 +45,7 @@
 
 ---
 
-#### 🧑‍💻 [Players System](https://github.com/mazenessam99/Players_System-)
+#### ⚽ [Players System](https://github.com/mazenessam99/Players_System-)
 > Built with *Next.js, MongoDB, and Mongoose* — manage player data with CRUD APIs and dynamic routes.  
 > Demonstrates the *Next.js App Router* and modern server-side patterns.  
 🔗 [Live Demo](https://players-system.vercel.app/)
@@ -56,9 +63,16 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 📫 Contact Me
 I'm always open to *freelance projects, collaborations, or just a good chat about tech* 🚀  
-Feel free to reach out 👇
+Feel free to reach out 👇  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mazen-essam-8b5448224)  
 - 📧 [Email](mailto:emazen628@gmail.com)  
@@ -70,3 +84,7 @@ Feel free to reach out 👇
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=🚀+Coding+with+passion+and+purpose!;💡+Building+beautiful+digital+experiences;⚡+Let's+create+something+awesome+together!" />
 </p>
+
+<!-- 🦆 ----------------------------------------------------------- 🦆 -->
+<h3 align="center">🦆 Thanks for visiting! Keep coding & stay creative 🦆</h3>
+<!-- 🦆 ----------------------------------------------------------- 🦆 -->
