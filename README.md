@@ -76,8 +76,9 @@
 ---
 ### 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-user-contribution.svg" alt="snake animation" />
 </p>
+
 
 
 ### 📫 Contact Me
