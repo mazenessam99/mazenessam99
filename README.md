@@ -1,13 +1,18 @@
 <!-- 💫 README for Mazen Essam (mazenessam99) -->
+
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px;">
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
 </h1>
 
-<h3 align="center">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
+<h3 align="center" style="color:white;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110891626?v=4" width="150" height="150" style="border-radius:50%" alt="Mazen Essam"/>
+  <img src="https://avatars.githubusercontent.com/u/110891626?v=4" width="150" height="150" style="border-radius:50%; border:4px solid white;" alt="Mazen Essam"/>
 </p>
+
+</div>
 
 ---
 
@@ -23,7 +28,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10" />
 </p>
 </marquee>
 
@@ -33,7 +38,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion,figma&perline=10" />
 </p>
 </marquee>
 
@@ -43,7 +48,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10" />
 </p>
 </marquee>
 
@@ -86,9 +91,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://github.com/mazenessam99/mazenessam99/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
