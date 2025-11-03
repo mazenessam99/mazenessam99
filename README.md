@@ -3,13 +3,12 @@
 <div align="center" style="background: linear-gradient(270deg, #f093fb, #f5576c, #4facfe, #43e97b); background-size: 800% 800%; animation: gradientBG 15s ease infinite; padding: 30px; border-radius: 20px;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer;Building+Web+%26+Mobile+Apps+with+Passion!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color='purble'&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
 </h1>
 
-<h3 align="center" style="color:purble;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
+<h3 align="center" style="color:white;">💻 Full-Stack Web & Mobile Developer | React • Next.js • Node.js • TypeScript</h3>
 
 </div>
-
 
 ---
 
@@ -47,7 +46,7 @@
 #### 🎬 [Mazflix](https://github.com/mazenessam99/Mazflix)
 > Movie & TV streaming platform built with React + Vite.  
 > Browse trending shows, view detailed info, and manage wishlists with smooth animations & user authentication.  
-🔗 [Live Demo](https://mazenessam99.github.io/Mazflix/)
+🔗 [Live Demo](https://github.com/mazenessam99/Mazflix)
 
 ---
 
@@ -74,11 +73,11 @@
 </p>
 
 ---
+
 ### 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-contributions?username=mazenessam99&theme=radical&snake=1" alt="snake animation" />
+  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-user-contribution.svg" alt="snake animation" />
 </p>
-
 
 ---
 
@@ -99,3 +98,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=🚀+Coding+with+passion+and+purpose!;💡+Building+beautiful+digital+experiences;⚡+Let's+create+something+awesome+together!" />
 </p>
+
