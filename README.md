@@ -1,6 +1,6 @@
 <!-- 💫 README for Mazen Essam (mazenessam99) -->
 
-<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); padding: 30px; border-radius: 20px;">
+<div align="center" style="background: linear-gradient(270deg, #f093fb, #f5576c, #4facfe, #43e97b); background-size: 800% 800%; animation: gradientBG 15s ease infinite; padding: 30px; border-radius: 20px;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Mazen+Essam+👋;Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+with+Passion!" />
@@ -13,6 +13,14 @@
 </p>
 
 </div>
+
+<style>
+@keyframes gradientBG {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+</style>
 
 ---
 
@@ -28,7 +36,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,supabase,reactnative,tailwind,bootstrap,materialui,shadcn&perline=10&colors=gradient" />
 </p>
 </marquee>
 
@@ -38,7 +46,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman,notion,figma&perline=10&colors=gradient" />
 </p>
 </marquee>
 
@@ -48,7 +56,7 @@
 
 <marquee direction="left" scrollamount="6">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom,gimp&perline=10&colors=gradient" />
 </p>
 </marquee>
 
@@ -87,24 +95,24 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
+### 🐍 GitHub Snake Animation (Dynamic)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mazenessam99/mazenessam99/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github.com/mazenessam99/mazenessam99/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
+
+> ⚡ **مهم:** عشان Snake Animation تشتغل تلقائي، لازم تعمل:
+> 1️⃣ Branch باسم `output`  
+> 2️⃣ ملف `github-contribution-grid-snake.svg` أو استخدم GitHub Action لتوليدها كل مرة Commit جديد
 
 ---
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mazen-essam-8b5448224"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="mailto:emazen628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-  <a href="https://t.me/mazen99_2001"><img src="https://skillicons.dev/icons?i=telegram" width="45" /></a>
-  <a href="https://github.com/mazenessam99"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://www.linkedin.com/in/mazen-essam-8b5448224"><img src="https://skillicons.dev/icons?i=linkedin&colors=gradient" width="45" /></a>
+  <a href="mailto:emazen628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&colors=gradient" width="45" /></a>
+  <a href="https://t.me/mazen99_2001"><img src="https://skillicons.dev/icons?i=telegram&colors=gradient" width="45" /></a>
+  <a href="https://github.com/mazenessam99"><img src="https://skillicons.dev/icons?i=github&colors=gradient" width="45" /></a>
 </p>
 
 <p align="center">
